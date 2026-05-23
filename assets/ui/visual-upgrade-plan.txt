@@ -1,0 +1,20 @@
+PARTYCAT SPLIT UPDATE STRATEGY
+
+STEP 1:
+small asset pushes only
+
+STEP 2:
+tiny renderer patches
+
+STEP 3:
+physics refinement patches
+
+STEP 4:
+audio layering
+
+STEP 5:
+full cabinet polish
+
+RULE:
+avoid giant monolithic index rewrites
+incremental upgrades only
