@@ -1,0 +1,30 @@
+PARTYCAT VISUAL ROADMAP
+
+PLAYFIELD:
+- cyber neon arcade table
+- curved shooter lane
+- chrome rails
+- hologram cat centerpiece
+- rainbow inserts
+- glowing bumper rings
+- CRT scanline overlay
+
+TARGETS:
+- REMIX
+- POST
+- SPIRAL
+- WILD
+- PARTY
+
+VISUAL DIRECTION:
+- blacklight arcade
+- cyan pink yellow green
+- industrial chrome
+- synthwave grime
+- MATTBEAR aesthetic
+
+NEXT:
+- real image assets
+- audio pack
+- animated inserts
+- particle fx
