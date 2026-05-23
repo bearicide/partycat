@@ -1,0 +1,30 @@
+PARTYCAT HUD SYSTEM
+
+TOP DISPLAY:
+- SCORE
+- MULTIPLIER
+- PARTY MODE
+- COMBO COUNT
+- BPM REACTION
+
+VISUAL FX:
+- CRT scanlines
+- cabinet glow
+- rainbow flash on jackpots
+- screen shake on bumper hits
+- hologram cat pulse
+- chrome ball reflections
+
+SOUND EVENTS:
+- bumper kick
+- flipper click
+- launch spring
+- jackpot siren
+- multiball synth rise
+
+CABINET STYLE:
+- cyberpunk arcade
+- industrial chrome
+- blacklight carpet energy
+- neon cyan/pink/yellow/green
+- MATTBEAR branding
