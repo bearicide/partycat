@@ -1,0 +1,1 @@
+PartyCat asset pipeline initialized.
