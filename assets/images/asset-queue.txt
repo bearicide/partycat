@@ -1,0 +1,30 @@
+PARTYCAT ASSET QUEUE
+
+HIGH PRIORITY:
+- playfield background
+- chrome pinball
+- hologram cat
+- flipper caps
+- neon inserts
+- bumper rings
+- launch spring housing
+
+MID PRIORITY:
+- combo flash overlays
+- jackpot beam
+- CRT overlay
+- synthwave fog
+- lane arrows
+- speaker grille textures
+
+LOW PRIORITY:
+- cabinet side art
+- animated mascots
+- attract mode logos
+- transition wipes
+- confetti overlays
+
+TARGET QUALITY:
+high contrast arcade realism
+responsive/mobile safe
+optimized for browser rendering
