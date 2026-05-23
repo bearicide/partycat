@@ -1,0 +1,29 @@
+PARTYCAT LIGHTING + FX
+
+LIGHTING ZONES:
+- upper orbit cyan
+- lower lanes magenta
+- multiball gold
+- PARTY MODE rainbow sweep
+- bumper impact white flash
+- shooter lane amber pulse
+
+FX SYSTEMS:
+- chrome reflections
+- bloom pulse
+- CRT scanlines
+- confetti burst
+- synthwave fog
+- pixel sparks
+- rail glow trails
+- jackpot beam
+
+PARTY MODE:
+- hologram cat activates
+- BPM synced flashes
+- screen shake escalation
+- rapid insert cycling
+- bass-reactive glow
+
+TARGET FEEL:
+Williams + synthwave nightclub + arcade carpet + MATTBEAR chaos
