@@ -1,0 +1,26 @@
+PARTYCAT AUDIO SYSTEM
+
+MUSIC LAYERS:
+- bass loop
+- drum loop
+- synth arp
+- ambient neon pad
+- PARTY MODE riser
+
+INTERACTIVE AUDIO:
+- bumper notes mapped to scale
+- flipper clicks layered with percussion
+- jackpot stingers
+- combo escalation tones
+- multiball intensity mix
+
+FUTURE:
+- reactive BPM system
+- user sample packs
+- Launchkey integration
+- live remix mode
+- browser sampler recording
+
+STYLE:
+industrial synthwave arcade chaos
+MATTBEARCADE energy
